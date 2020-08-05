@@ -43,4 +43,13 @@ body {
   padding: 10px;
 }
 
+.focused {
+
+  background-color: lightgreen;
+
+}
+
+.doesNotMatch{
+  background-color: lightcoral
+}
 
